@@ -1,7 +1,5 @@
-
-
-
-
+/*Guadalupe Gonzalez Nestor Federico
+Practica 9*/
 #include <stdio.h>
 int main ()
 {
